@@ -17,7 +17,7 @@ ____
 
 
 ## Normalizing Dataset
- Scale the values of the features between -1 and 1 to normalize them.
+ - Scale the values of the features between -1 and 1 to normalize them.
 
 
 ## Testing & Training Dataset
