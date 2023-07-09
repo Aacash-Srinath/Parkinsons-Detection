@@ -1,6 +1,6 @@
 # Parkinsons Disease Detection
-> A Machine Learning Model that Detects Parkinsons Disease with a 98% Accuracy Score
-> Dataset downloaded from https://archive.ics.uci.edu/dataset/174/parkinsons
+> - A Machine Learning Model that Detects Parkinsons Disease with a 98% Accuracy Score
+> - Dataset downloaded from https://archive.ics.uci.edu/dataset/174/parkinsons
 
 ____
 
